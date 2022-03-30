@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 void input(float *base,float *height)
 {
   printf("enter the base, height");
